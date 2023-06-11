@@ -50,5 +50,12 @@
     "prettier": "^2.8.8",
     "prettier-plugin-astro": "^0.10.0",
     "prettier-plugin-tailwindcss": "^0.3.0"
-  }
+  },
+  "description": "<p align=\"center\">\r   <img src=\"public/images/brand.png\" height=\"128\">\r   <h2 align=\"center\"><a href=\"https://roadmap.sh\">roadmap.sh</a></h2>\r   <p align=\"center\">Community driven roadmaps, articles and resources for developers<p>\r   <p align=\"center\">\r     <a href=\"https://roadmap.sh/roadmaps\">\r     \t<img src=\"https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"roadmaps\" />\r     </a>\r     <a href=\"https://roadmap.sh/best-practices\">\r     \t<img src=\"https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"best practices\" />\r     </a>\r     <a href=\"https://youtube.com/theroadmap?sub_confirmation=1\">\r     \t<img src=\"https://img.shields.io/badge/%E2%9C%A8-Videos-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"videos\" />\r     </a>\r     <a href=\"https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1\">\r     \t<img src=\"https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"roadmaps\" />\r     </a>\r   </p>\r </p>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }
